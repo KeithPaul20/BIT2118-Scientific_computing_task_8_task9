@@ -71,7 +71,3 @@ The program produces three sets of results:
 
 ---
 
-## F. Files in this task
-- `Task_08_iterative_linear.py` → Original heat conduction example.  
-- `Task_08_resistor_network.py` → Modified electrical network case.  
-- `README.md` → Documentation with answers, explanations, and graph interpretations.
